@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 17 17" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="0" y="0" width="17" height="17" fill="#009688" />
+  <text x="2" y="14" fill="#000000" font-family="sans-serif" font-size="11px" style="line-height:1.25" xml:space="preserve">
+    <tspan x="2.8277454" y="14.638887" fill="#ffffff" font-size="17px" stroke-width=".3">E</tspan>
+  </text>
+ </g>
+</svg>
