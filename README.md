@@ -8,20 +8,26 @@ Websockets chatbot made with [Vue3](https://vuejs.org/),
 
 ## Run
 
+### Install dependencies
+
+```shell
+pnpm install
+```
+
 ### Development
 
-```bash
-npm run dev
+```shell
+pnpm run dev
 ```
 
 ### Linting
 
-```bash
-npm run lint
+```shell
+pnpm run lint
 ```
 
 ### Production
 
-```bash
-npm run build
+```shell
+pnpm run build
 ```
