@@ -1,12 +1,6 @@
 import { InjectionKey } from 'vue';
 import { createStore, Store } from 'vuex';
 
-declare global {
-  interface Crypto {
-    randomUUID: () => string;
-  }
-}
-
 export interface State {
   botIsTyping: boolean,
   botName: string,
