@@ -10,8 +10,8 @@
     "deploy": "node scripts/gh-pages-deploy.mjs"
   },
   "engines": {
-    "node": ">=18",
-    "pnpm": ">=7"
+    "node": ">=20",
+    "pnpm": ">=8"
   },
   "dependencies": {
     "@quasar/extras": "^1.16.8",
